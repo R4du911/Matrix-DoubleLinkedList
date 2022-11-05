@@ -1,7 +1,6 @@
 #pragma once
 #include <tuple>
 
-//DO NOT CHANGE THIS PART
 typedef int TElem;
 #define NULL_TELEM 0
 
